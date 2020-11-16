@@ -1,0 +1,14 @@
+---
+title: "week_7_collab"
+author: "Leonardo Feitosa"
+date: "16/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hey Mukta, let's collab #Gaines' lab swag
+
+Best collab ever wooooo #Rparty
